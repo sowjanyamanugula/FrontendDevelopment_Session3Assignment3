@@ -1,0 +1,65 @@
+#Caption{
+  color:white;
+  font-weight: bold;
+  position: fixed;
+  margin-left: 45px;
+}
+#div1{
+  position: fixed;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+#Caption2{
+  color:white;
+  font-weight: bold;
+  position: fixed;
+  margin-left: 45px;
+  margin-top: 200px;
+}
+#div2{
+  position: fixed;
+  margin-top: 230px;
+  margin-left: 20px;
+}
+#Caption3{
+  color:white;
+  font-weight: bold;
+  position: fixed;
+  margin-left: 45px;
+  margin-top: 390px;
+}
+#div3{
+  position: fixed;
+  margin-top: 420px;
+  margin-left: 20px;
+}
+#Opaquediv{
+        width:400px;
+        border-radius: 2px;
+         border:2px solid white;
+         background-color: white;
+         opacity:0.8;
+         margin-left: 20px;
+         margin-right: 50px;
+         margin-bottom: 5px;
+         padding:10px;
+}
+img{
+  position: absolute;
+}
+label{
+  margin-left: 3px;
+}
+.inp{
+  margin-left: 15px;
+  background-color: white;
+   border-radius: 3px;
+}
+#submitbtn{
+     border-radius: 5px;
+     background-color: blue;
+     color:white;
+     position: fixed;
+     margin-left: 180px;
+     margin-top: 620px;
+}
