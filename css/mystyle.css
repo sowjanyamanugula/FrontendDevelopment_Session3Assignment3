@@ -1,14 +1,55 @@
+body{
+  background-image: url("../images/bluebackground.jpg");
+  background-repeat: repeat-y;
+  width:500px;
+  height:-14px;
+}
+
 #Caption{
   color:white;
   font-weight: bold;
-  position: fixed;
+  position: relative;
   margin-left: 45px;
+  margin-top:23px;
 }
 #div1{
-  position: fixed;
-  margin-top: 30px;
+  position: relative;
+  margin-top: 15px;
   margin-left: 20px;
+  margin-bottom: 45px;
 }
+#Opaquediv{
+        width:332px;
+        border-radius: 2px;
+         border:2px solid white;
+         background-color: white;
+         opacity:0.8;
+         margin-left: 20px;
+         margin-right: 50px;
+         margin-bottom: 5px;
+         padding:10px;
+}
+label{
+  margin-left: 3px;
+}
+input.inp{
+  background-color: white;
+  width:200px;
+}
+#submitbtn{
+     border-radius: 9px;
+     background-color: #14144a;
+     color:white;
+     position: relative;
+     margin-left: 180px;
+     margin-top: -12px;
+     width:61px;
+     height:23px;
+}
+input[type="radio"]{
+  margin-left: 22px;
+}
+/*
 #Caption2{
   color:white;
   font-weight: bold;
@@ -54,12 +95,5 @@ label{
   margin-left: 15px;
   background-color: white;
    border-radius: 3px;
-}
-#submitbtn{
-     border-radius: 5px;
-     background-color: blue;
-     color:white;
-     position: fixed;
-     margin-left: 180px;
-     margin-top: 620px;
-}
+}*/
+
